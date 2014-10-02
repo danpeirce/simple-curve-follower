@@ -17,7 +17,6 @@ As is this code allows the robot to follow simple curved lines. It is a starting
 
 See
 
-  * [APSC1299](http://www.kwantlen.ca/science/physics/engineering/APSC1299/)
   * [Changes to Sumovore and BB2](http://www.kwantlen.ca/science/physics/faculty/dpeirce/notes/sumovore_maintenance_log/ChangesToSumovoreBB2.html)
       * Sumovore kit can be purchased from [Solarbotics: sumovore](http://www.solarbotics.com/product/k_sv/)
       * PIC brainboard can also be purchased from [Solarbotics: PIC brainboard 2](http://www.solarbotics.com/product/k_sv-pic)
